@@ -1,2 +1,111 @@
-# Plately-Coop
-Smart marketplace connecting restaurants with customers to reduce food waste through discounted surplus meals.
+# Plately
+
+## Ідея
+
+Маркетплейс для продажу залишків їжі зі знижкою наприкінці дня.
+
+Не клон Too Good To Go.
+
+Основна ідея — адаптувати концепцію під український ринок і спростити життя закладам.
+
+## Чому?
+
+Україна майже не має подібних сервісів.
+
+Заклади викидають їжу.
+
+Покупці хочуть дешевше.
+
+## MVP
+
+- пошук поруч
+- бронювання
+- оплата
+- рейтинг
+
+## Майбутнє
+
+- AI прогнозування залишків
+- інтеграція з Poster
+- маршрути
+
+## Чого НЕ буде
+
+❌ не доставка
+
+❌ не Uber Eats
+
+❌ не Glovo
+
+❌ не маркетплейс ресторанів
+
+# Plately 🍽️
+
+**Reduce food waste. Save money. Help local restaurants.**
+
+Plately is a platform that helps restaurants sell surplus food at discounted prices instead of throwing it away.
+
+Inspired by successful European solutions, but designed specifically for the Ukrainian market and its business realities.
+
+---
+
+## The Problem
+
+Every day restaurants, cafés and bakeries throw away perfectly edible food because it wasn't sold before closing.
+
+At the same time, many people are looking for affordable meals.
+
+Plately aims to connect these two sides.
+
+---
+
+## Vision
+
+- ♻️ Reduce food waste
+- 💰 Help restaurants recover part of their costs
+- 🍽️ Give customers access to quality food at lower prices
+- 🇺🇦 Build a product tailored for Ukraine
+
+---
+
+## MVP
+
+- 📍 Nearby restaurants
+- 🎁 Surprise bags / discounted offers
+- 📅 Reservation
+- 💳 Online payment
+- ⭐ Ratings & reviews
+
+---
+
+## Planned Features
+
+- 🤖 AI demand and surplus prediction
+- 📊 Analytics for restaurants
+- 🔗 Poster / POS integrations
+- 🔔 Smart notifications
+- 🎯 Personalized recommendations
+
+---
+
+## What Plately is NOT
+
+❌ Food delivery
+
+❌ Uber Eats
+
+❌ Glovo
+
+❌ A restaurant marketplace
+
+The goal is to reduce food waste, not replace traditional food delivery services.
+
+---
+
+## Project Status
+
+🟡 Idea Validation & MVP Planning
+
+The project is currently in its early stage. We are validating the concept with restaurant owners and potential users before building the first public MVP.
+
+Feedback and ideas are always welcome.
