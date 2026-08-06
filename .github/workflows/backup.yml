@@ -16,10 +16,12 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
 
-      - name: Push to backup repository
-        env:
-          TOKEN: ${{ secrets.BACKUP_TOKEN }}
-        run: |
-          git remote remove origin || true
-          git remote add backup https://x-access-token:${TOKEN}@github.com/HedgeHog777/Plately-Backup.git
-          git push backup HEAD:main --force
+      - name: Push to backup repositories
+  env:
+    TOKEN: ${{ secrets.BACKUP_TOKEN }}
+  run: |
+    git remote add backup-private https://x-access-token:${TOKEN}@github.com/HedgeHog777/Plately.git
+    git remote add backup-archive https://x-access-token:${TOKEN}@github.com/HedgeHog777/Plately-Backup.git
+
+    git push backup-private HEAD:main --force
+    git push backup-archive HEAD:main --force
