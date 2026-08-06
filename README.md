@@ -1,3 +1,13 @@
+MIT License
+
+Python
+
+FastAPI
+
+Status: Research
+
+Version: 0.1
+
 # Plately
 
 ## Ідея
