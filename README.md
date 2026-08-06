@@ -116,3 +116,9 @@ The goal is to reduce food waste, not replace traditional food delivery services
 The project is currently in its early stage. We are validating the concept with restaurant owners and potential users before building the first public MVP.
 
 Feedback and ideas are always welcome.
+
+![Stage](https://img.shields.io/badge/Stage-Idea%20Validation-blueviolet)
+![MVP](https://img.shields.io/badge/MVP-Planned-orange)
+![Market](https://img.shields.io/badge/Market-Ukraine-FFD700?labelColor=0057B7)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
+![Contributors](https://img.shields.io/badge/Contributors-3-blue)
