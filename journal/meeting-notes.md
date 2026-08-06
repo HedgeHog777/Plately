@@ -1,49 +1,29 @@
-# Meeting Notes
+# Meeting #1
 
-## Meeting #1
 Date: 2026-08-06
 
-### Agenda
-- Project structure
-- Business model
-- Market research
-- Task distribution
+## Decisions
 
-### Decisions
-- Initial launch market: Ukraine
-- Analyze Too Good To Go as the primary benchmark.
-- Business model will be validated before MVP development.
-- Research will be divided between team members.
+- Launch market: Ukraine
+- Analyze Too Good To Go business model
+- Split research between team members
 
-### Task Assignment
+## Task Assignment
 
-#### (Mr_Hedgehog_UA)
-- Build Business Model Canvas.
-- Define monetization options.
-- Prepare initial financial assumptions.
-- Create project documentation.
+### @Mr_Hedgehog_UA
+- Business Model
+- Monetization
+- Documentation
 
-####  (Eron)
-- Competitor analysis.
-- Market size (TAM/SAM/SOM).
-- User research.
-- Collect public statistics.
+### @Eron
+- Competitor Research
+- TAM/SAM/SOM
 
-#### (Timefall)
-- Gather restaurant insights.
-- Collect food waste examples.
-- Estimate average surplus.
-- Interview restaurant staff where possible.
+### @Timefall
+- Restaurant interviews
+- Food waste statistics
 
-### Next Meeting
-- Review collected research.
-- Compare monetization models.
-- Finalize MVP scope.
+## Next Meeting
 
-### Status
-- [x] Repository created
-- [x] Documentation initialized
-- [ ] Market research
-- [ ] Business model draft
-- [ ] Restaurant interviews
-- [ ] MVP specification
+- Review research
+- Define MVP
