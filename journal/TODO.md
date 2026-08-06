@@ -1,0 +1,5 @@
+- [ ] Finish Business Model draft
+- [ ] Analyze Too Good To Go
+- [ ] Compare competitors
+- [ ] Collect statistics
+- [ ] Interview restaurants
