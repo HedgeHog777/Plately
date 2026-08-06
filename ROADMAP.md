@@ -1,39 +1,23 @@
 # Roadmap
 
-## Phase 1
+## Phase 1 – Research
+- Market validation
+- Business model
+- Competitor analysis
+- Brand identity
+- Prototype
 
-Research
+## Phase 2 – Development
+- Backend
+- Frontend
+- Mobile
+- Testing
 
-Market validation
+## Phase 3 – Pilot
+- Pilot restaurants
+- Beta launch
+- Feedback collection
 
-Brand
-
-Prototype
-
----
-
-## Phase 2
-
-Backend
-
-Frontend
-
-Mobile
-
-Testing
-
----
-
-## Phase 3
-
-Pilot restaurants
-
-Beta launch
-
-Feedback
-
----
-
-## Phase 4
-
-Public release
+## Phase 4 – Release
+- Public release
+- Scaling
