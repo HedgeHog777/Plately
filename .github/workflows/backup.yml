@@ -1,0 +1,25 @@
+name: Backup Repository
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push to backup repository
+        env:
+          TOKEN: ${{ secrets.BACKUP_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git push https://x-access-token:${TOKEN}@github.com/HedgeHog777/Plately.git HEAD:main --force
