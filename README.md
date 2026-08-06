@@ -1,12 +1,9 @@
-MIT License
-
-Python
-
-FastAPI
-
-Status: Research
-
-Version: 0.1
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.116-009688?logo=fastapi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Project-black?logo=github)
+![License](https://img.shields.io/badge/License-MIT-success)
+![Status](https://img.shields.io/badge/Status-Research-blue)
+![Version](https://img.shields.io/badge/Version-v0.1-lightgrey)
 
 # Plately
 
