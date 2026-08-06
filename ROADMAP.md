@@ -1,9 +1,13 @@
 # Roadmap
 
-## Phase 1 – Research
+## Phase 1 – Research & Validation
+
 - Market validation
 - Business model
 - Competitor analysis
+- Restaurant interviews
+- User research
+- Monetization strategy
 - Brand identity
 - Prototype
 
