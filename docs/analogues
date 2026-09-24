@@ -8,34 +8,34 @@ The world's largest surplus food marketplace.
 
 ## Target audience
 
-- Restaurants
-- Bakeries
-- Cafes
-- Supermarkets
+-	Restaurants
+-	Bakeries
+-	Cafes
+-	Supermarkets
 
 ## Business model
 
-- Fixed commission per sold box
-- Annual partner fee
+-	Fixed commission per sold box
+-	Annual partner fee
 
 ## Strengths
 
-- Large user base
-- Strong brand
-- Simple UX
+-	Large user base
+-	Strong brand
+-	Simple UX
 
 ## Weaknesses
 
-- Limited customization
-- Surprise concept is not for everyone
-- Customer support complaints
+-	Limited customization
+-	Surprise concept is not for everyone
+-	Customer support complaints
 
 ## Opportunities for Plately
 
-- More transparent box information
-- Better restaurant analytics
-- Flexible pricing
-- Better localization for Ukraine
+-	More transparent box information
+-	Better restaurant analytics
+-	Flexible pricing
+-	Better localization for Ukraine
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 2) Ricky food (Ukraine)
 
@@ -45,21 +45,30 @@ RiFo - your app for reducing food waste and enjoying delicious meals at a lower 
 
 ## Target audience
 
-- Supermarkets
+-	Supermarkets
 
 ## Business model
-- 
 
+-	Commission per transaction
 
 ## Strengths
-- 
 
-## Weaknesses
-- 
+-	Ukrainian market focus
+-	Food waste reduction
+-	Discounted products
+
+## Weaknesses	
+
+-	Limited number of business categories
+-	Limited customization
+-	Limited geographic coverage
 
 ## Opportunities for Plately
 
-- terms of use 
+-	terms of use 
+-	Mystery boxes
+-	Personalized offers
+-	Better analytics
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 3) TABETE (Japan)
 
@@ -69,10 +78,9 @@ Food that is still being checked but is ultimately thrown away.
 
 ## Target audience
 
-- Restaurants
-- Cafes
-- Supermarkets
-
+-	Restaurants
+-	Cafes
+-	Supermarkets
 
 ## Business model
 
@@ -80,76 +88,52 @@ Food that is still being checked but is ultimately thrown away.
 
 ## Strengths
 
-- Number of stores partnering with the app (over 3,000)
-- The app operates in 23 cities, offering users a wide range of choices.
-
+-	Number of stores partnering with the app (over 3,000)
+-	The app operates in 23 cities, offering users a wide range of choices.
 
 ## Weaknesses
 
-- It operates solely for the Japanese market
-- The timeframe for receiving the product is strictly defined.
+-	It operates solely for the Japanese market
+-	The timeframe for receiving the product is strictly defined.
 
 ## Opportunities for Plately
 
-- Sales and coupons with a social impact through "food waste reduction"
-
+-	Ukrainian market
+-	Flexible pickup options
+-	Detailed product information
+-	Social impact through food waste reduction
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 4) Expirenza (Ukraine, Mono)
 
 ## Overview
 
-## Target audience
-
-## Business model
-
-## Strengths
-
-## Weaknesses
-
-## Opportunities for Plately
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-5) Foodsi (Polish)
-
-## Overview
-
-Save up to 70% on high-quality products and keep them out of the trash! Sound good?
-Download the app and save with us!
+Buy boxes from Kyiv's best spots at special prices and save the planet using the Expirenza app.
 
 ## Target audience
 
-- Restaurants
-- Bakeries
-- Cafes
-- Supermarkets
-- Flower shops
-- Cosmetics store
+-	Restaurants
+-	Cafes
+-	Customers
 
 ## Business model
+-	Commission per transaction
 
 ## Strengths
 
-## Weaknesses
-
-## Opportunities for Plately
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-6) Karma - Save food with a tap (Swedish)
-
-## Overview
-
-## Target audience
-
-## Business model
-
-## Strengths
+- Building on the existing QR code system for restaurants, has been added option to receive "mystery boxes"
 
 ## Weaknesses
+-	Limited to the monobank ecosystem
+-	Limited focus on food waste
+-	Limited box customization
 
 ## Opportunities for Plately
+-	Independent platform
+-	Better food waste analytics
+-	Flexible payment options
+-	Detailed box information
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 5) Foodsi (Poland)
 
@@ -160,39 +144,69 @@ from local businesses at discounts of up to 70%.
 
 ## Target audience
 
-- Restaurants
-- Bakeries
-- Cafes
-- Supermarkets
-- Flower shops
-- Cosmetics stores
+-	Restaurants
+-	Bakeries
+-	Cafes
+-	Supermarkets
+-	Flower shops
+-	Cosmetics stores
 
 ## Business model
 
-- Free registration for businesses
-- Commission on each sold package
-- Commission depends on the package price
+-	Free registration for businesses
+-	Commission on each sold package
+-	Commission depends on the package price
 
 ## Strengths
 
-- Large user base
-- Large number of business partners
-- Discounts of up to 70%
-- Wide range of product categories
-- Strong presence in the Polish market
+-	Large user base
+-	Large number of business partners
+-	Discounts of up to 70%
+-	Wide range of product categories
+-	Strong presence in the Polish market
 
 ## Weaknesses
 
-- Limited presence outside Poland
-- Package contents may be unpredictable
-- User experience depends heavily on individual partners
+-	Limited presence outside Poland
+-	Package contents may be unpredictable
+-	User experience depends heavily on individual partners
 
 ## Opportunities for Plately
 
-- Better localization for the Ukrainian market
-- More transparent package information
-- Flexible pricing model
-- Restaurant analytics
-- Better communication between restaurants and customers
+-	Better localization for the Ukrainian market
+-	More transparent package information
+-	Flexible pricing model
+-	Restaurant analytics
+-	Better communication between restaurants and customers
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+6) Karma - Save food with a tap (Swedish)
 
+## Overview
+Karma is an application for buying surplus food from restaurants, cafes and stores.
+
+## Target audience
+-	Restaurants
+-	Cafes
+-	Supermarkets
+-	Grocery stores
+
+## Business model
+-	Commission per transaction
+-	Business service fee
+
+## Strengths
+-	Strong sustainability focus
+-	Simple purchasing process
+-	Wide range of businesses
+
+## Weaknesses
+-	Limited pickup time
+-	Availability depends on surplus food
+-	Limited customization
+
+## Opportunities for Plately
+-	Ukrainian market
+-	Delivery integration
+-	Personalized recommendations
+-	Food waste analytics
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
